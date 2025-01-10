@@ -7,10 +7,10 @@
 
 using namespace std;
 
-// функция для проверки корректности ввода числа
+// С„СѓРЅРєС†РёСЏ РґР»СЏ РїСЂРѕРІРµСЂРєРё РєРѕСЂСЂРµРєС‚РЅРѕСЃС‚Рё РІРІРѕРґР° С‡РёСЃР»Р°
 bool proverka(const string& number);
 
-// функция для выполнения деления
+// С„СѓРЅРєС†РёСЏ РґР»СЏ РІС‹РїРѕР»РЅРµРЅРёСЏ РґРµР»РµРЅРёСЏ
 bool delenie(const string& a, const string& b, string& chastnoe, string& ostatok);
 
 #endif // HEADER_H
